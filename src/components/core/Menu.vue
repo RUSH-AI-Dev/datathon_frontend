@@ -40,8 +40,9 @@ export default {
     return {
       selectedMenu: 0,
       menus: [
-        ["mdi-apps-box", "แจ้งปัญหาทั่ว กทม.", "/Dashboard"],
-        ["mdi-apps-box", "งบ กทม.", "/Dashboard"],
+        ["mdi-apps-box", "แสดงผล", "/Dashboard"],
+        ["mdi-apps-box", "แจ้งปัญหาทั่ว กทม.", "/Report"],
+        ["mdi-apps-box", "งบ กทม.", "/Budget"],
         ["mdi-google-maps", "รวมปัญหาทั่ว กทม.", "/Map"],
         ["mdi-file-document-box-check-outline", "About", "/about"]
       ]

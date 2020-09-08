@@ -51,6 +51,16 @@
           avatar_ic="https://scontent.fbkk2-7.fna.fbcdn.net/v/t1.0-9/118519690_1520578014796338_994663011942394454_o.jpg?_nc_cat=108&_nc_sid=730e14&_nc_eui2=AeGkJSXwDbPi-_dOQmT0r4vt6mI5fFaeBufqYjl8Vp4G55N6HeILBKSjvFd_iMQH3bT7Fe7uFpXZ1v5Z1uQXMmMH&_nc_ohc=v3v6zvf602IAX_1PWv_&_nc_ht=scontent.fbkk2-7.fna&oh=ee6f392cfb689a4ce3e31e8a36c9d547&oe=5F7473E8"
         />
       </v-col>
+
+      <v-col lg="3" md="6" sm="12" cols="12">
+        <AboutCard
+          url="https://www.facebook.com/meen.classicvevie"
+          title="Peerasilp C."
+          subtitle="Research Assistant"
+          avatar_bg="#00a65a"
+          avatar_ic="https://scontent.fbkk2-4.fna.fbcdn.net/v/t1.0-9/118694107_3447756755263370_6918233898138326497_n.jpg?_nc_cat=101&_nc_sid=09cbfe&_nc_eui2=AeE2IggVka3JiuUIoVJugZZLNG-p25OcyRs0b6nbk5zJGx50do-uMyBRq199iTOcL1gQPUndfiszkPvhIYPP9sTo&_nc_ohc=MrTUdzVxQdUAX8-wAFd&_nc_oc=AQm_EOAatMd4tcPWPzEgY4THsTp--7z9PUeD4m05C97Y5kHraTFNt6ogKHIlDvwiJys&_nc_ht=scontent.fbkk2-4.fna&oh=be0c5318854dbb38ac2189c210bbe538&oe=5F7EF2F3"
+        />
+      </v-col>
     </v-row>
   </v-container>
 </template>
