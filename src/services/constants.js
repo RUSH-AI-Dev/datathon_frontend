@@ -4,8 +4,8 @@ export const NETWORK_TIMEOUT_MESSAGE = "A network timeout has occurred, Please t
 export const UPLOAD_PHOTO_FAIL_MESSAGE = "An error has occurred. The photo was unable to upload.";
 export const NOT_CONNECT_NETWORK = "NOT_CONNECT_NETWORK";
 
-export const apiUrl = "http://34.126.109.88:3000/api/v2";
-export const imageUrl = "http://34.126.109.88:3000/images";
+export const apiUrl = "https://caf0252529ab.ngrok.io/api/v2";
+export const imageUrl = "https://caf0252529ab.ngrok.io/images";
 
 export const server = {
   LOGIN_URL: `login`,
