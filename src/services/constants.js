@@ -7,8 +7,8 @@ export const NOT_CONNECT_NETWORK = "NOT_CONNECT_NETWORK";
 // export const apiUrl = "http://localhost:3000/api/v2";
 // export const imageUrl = "http://localhost:3000/images";
 
-export const apiUrl = "https://55d04e85b869.ngrok.io/api/v2";
-export const imageUrl = "https://55d04e85b869.ngrok.io/images";
+export const apiUrl = "https://52cf365359ad.ngrok.io/api/v2";
+export const imageUrl = "https://52cf365359ad.ngrok.io/images";
 
 export const server = {
   LOGIN_URL: `login`,

@@ -9,7 +9,7 @@
       <v-list-item-avatar tile size="80" :color="avatar_bg">
         <v-img
           :src="avatar_ic"
-          lazy-src="https://pbs.twimg.com/profile_images/1224603211169845250/qkzoeZct_400x400.jpg"
+          lazy-src=""
           aspect-ratio="1"
           max-width="100"
           max-height="100"
